@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  ios-twitter-client
+
+  Created by OkuderaYuki on 2017/08/26.
+  Copyright © 2017年 Okudera Yuki. All rights reserved.
+*/
+
+// MARK: - Message
+"offline" = "通信環境の良い場所で再度お試しください。";
+"timeout" = "タイムアウトになりました。";
+"selectAccount" = "アカウントを選択してください。";
+"settingTwitterAccount" = "設定画面からTwitterアカウントでログインしてください。";
+"notAuthorizedTwitterAccount" = "Twitterアカウントの利用が許可されていません。";
+"failedAccessTwitterAccount" = "Twitterアカウントの取得に失敗しました。";
+
+// MARK: - Alert title
+"twitter" = "Twitter";
+
+// MARK: - Alert button
+"ok" = "OK";
+"setting" = "設定";
+"cancel" = "キャンセル";
+
+// MARK: - NavigationBarTitle
+"timeline" = "タイムライン";

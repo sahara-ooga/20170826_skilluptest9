@@ -1,0 +1,29 @@
+PODS:
+  - ObjectMapper (2.2.8)
+  - ReachabilitySwift (3)
+  - Realm (2.9.1):
+    - Realm/Headers (= 2.9.1)
+  - Realm/Headers (2.9.1)
+  - RealmSwift (2.9.1):
+    - Realm (= 2.9.1)
+  - STV-Extensions (0.1.9)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - ObjectMapper (= 2.2.8)
+  - ReachabilitySwift (= 3)
+  - RealmSwift (= 2.9.1)
+  - STV-Extensions (= 0.1.9)
+  - SVProgressHUD (= 2.1.2)
+
+SPEC CHECKSUMS:
+  ObjectMapper: 3d571bb5af471c779e1160828cd9ad5c4ef90958
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: f91fb43bd474c4f731a116ebf7392c75dd015920
+  RealmSwift: 207f12a4a36b696c5183c60a1c06d70234a23e56
+  STV-Extensions: 48b4788afd374c6940a20f9eea6b1b9ebd40fe1c
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 50b77ec4e0feb675a97522550c0ca42f03446dbf
+
+COCOAPODS: 1.2.1
